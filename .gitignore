@@ -1,0 +1,14 @@
+*.out
+**/*.out
+
+**/.DS_Store
+.DS_Store
+
+
+*.o
+**/*.o
+
+*.csv
+**/*.csv
+
+**/postgres_fork/**
