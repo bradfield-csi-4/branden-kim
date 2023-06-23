@@ -12,3 +12,8 @@
 **/*.csv
 
 **/postgres_fork/**
+
+GNAF_CORE.psv
+
+**/G-NAFCore_MAY23_AUSTRALIA_GDA2020_PSV_103/**
+
